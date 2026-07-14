@@ -1,0 +1,9 @@
+<svg width="1400" height="950" viewBox="0 0 1400 950" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1400" y2="950"><stop stop-color="#FCE7F3"/><stop offset="1" stop-color="#EDE9FE"/></linearGradient></defs>
+<rect width="1400" height="950" rx="50" fill="url(#g)"/>
+<circle cx="1170" cy="140" r="180" fill="white" fill-opacity=".28"/>
+<circle cx="150" cy="820" r="210" fill="white" fill-opacity=".18"/>
+<rect x="250" y="235" width="900" height="520" rx="35" fill="#FFFFFF"/><rect x="310" y="300" width="360" height="34" rx="17" fill="#111827"/><rect x="310" y="370" width="500" height="20" rx="10" fill="#CBD5E1"/><rect x="310" y="415" width="430" height="20" rx="10" fill="#E2E8F0"/><rect x="310" y="500" width="180" height="65" rx="20" fill="#5B4DF7"/><rect x="840" y="300" width="240" height="240" rx="30" fill="#EEF2FF"/>
+<text x="700" y="845" text-anchor="middle" fill="#111827" font-family="Arial" font-size="50" font-weight="700">Streetwear Brand System</text>
+<text x="700" y="895" text-anchor="middle" fill="#475569" font-family="Arial" font-size="23">Branding</text>
+</svg>

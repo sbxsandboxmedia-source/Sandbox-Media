@@ -1,0 +1,9 @@
+<svg width="1400" height="950" viewBox="0 0 1400 950" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1400" y2="950"><stop stop-color="#E0E7FF"/><stop offset="1" stop-color="#F3E8FF"/></linearGradient></defs>
+<rect width="1400" height="950" rx="50" fill="url(#g)"/>
+<circle cx="1170" cy="140" r="180" fill="white" fill-opacity=".28"/>
+<circle cx="150" cy="820" r="210" fill="white" fill-opacity=".18"/>
+<circle cx="700" cy="450" r="90" fill="#FFFFFF"/><path d="M670 395L760 450L670 505Z" fill="#5B4DF7"/>
+<text x="700" y="845" text-anchor="middle" fill="#111827" font-family="Arial" font-size="50" font-weight="700">Motion Graphics Explainer</text>
+<text x="700" y="895" text-anchor="middle" fill="#475569" font-family="Arial" font-size="23">Video Editing</text>
+</svg>
