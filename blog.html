@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Sandbox Media Blog | Design, SEO, Marketing &amp; Growth</title>
+<meta content="Practical articles about website design, Shopify, branding, SEO, social media, automation and digital business growth." name="description"/>
+<meta content="index, follow, max-image-preview:large" name="robots"/>
+<meta content="#ffffff" name="theme-color"/>
+<link href="https://yourdomain.com/blog.html" rel="canonical"/>
+<meta content="Sandbox Media Blog" property="og:title"/>
+<meta content="Practical digital growth insights for ambitious businesses." property="og:description"/>
+<meta content="website" property="og:type"/>
+<meta content="https://yourdomain.com/blog.html" property="og:url"/>
+<meta content="https://yourdomain.com/assets/logos/sandbox-logo.png" property="og:image"/>
+<link href="assets/logos/sandbox-logo.png" rel="icon"/>
+<link as="style" href="style.css" rel="preload"/><link href="style.css" rel="stylesheet"/>
+<meta content="light" name="color-scheme"/><link href="site.webmanifest" rel="manifest"/><meta content="summary_large_image" name="twitter:card"/><meta content="Sandbox Media Blog | Design, SEO, Marketing &amp; Growth" name="twitter:title"/><meta content="Practical articles about website design, Shopify, branding, SEO, social media, automation and digital business growth." name="twitter:description"/><meta content="https://yourdomain.com/assets/logos/sandbox-logo.png" name="twitter:image"/><meta content="IE=edge" http-equiv="X-UA-Compatible"/></head>
+<body class="blog-page">
+<div class="site-intro" id="siteIntro" aria-hidden="true">
+  <div class="site-intro-panel site-intro-panel-left"></div>
+  <div class="site-intro-panel site-intro-panel-right"></div>
+
+  <div class="site-intro-content">
+    <div class="site-intro-logo-wrap">
+      <span class="site-intro-ring ring-one"></span>
+      <span class="site-intro-ring ring-two"></span>
+      <img class="site-intro-logo" src="assets/logos/sandbox-logo.png" alt="">
+    </div>
+
+    <div class="site-intro-brand">
+      <strong>SANDBOX</strong>
+      <span>MEDIA</span>
+    </div>
+
+    <p>Strategy • Design • Technology • Growth</p>
+
+    <div class="site-intro-progress" aria-hidden="true">
+      <span></span>
+    </div>
+  </div>
+</div>
+
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header">
+<div class="topbar">
+<div class="container topbar-inner">
+<span>Global Digital Growth Agency</span>
+<span>Website • Branding • SEO • Marketing • Automation</span>
+<a href="mailto:hello@sandboxmedia.in">hello@sandboxmedia.in</a>
+</div>
+</div>
+<nav aria-label="Main navigation" class="navbar container">
+<a class="brand" href="index.html">
+<span class="brand-logo"><img alt="Sandbox Media logo" decoding="async" src="assets/logos/sandbox-logo.png"/></span>
+<span class="brand-name">SANDBOX <em>MEDIA</em></span>
+</a>
+<button aria-expanded="false" aria-label="Open navigation" class="menu-toggle" id="menuToggle" type="button">☰</button>
+<div class="nav-links" id="navLinks">
+<a href="index.html">Home</a>
+<a href="services.html">Services</a>
+<a href="portfolio.html">Case Studies</a>
+<a href="about.html">About Us</a>
+<a class="active" href="blog.html">Blog</a>
+<a href="products.html">Products</a>
+<a href="contact.html">Contact</a>
+<a class="nav-cta magnetic" href="https://wa.me/919000000000" rel="noopener" target="_blank">Let's Talk <span>↗</span></a>
+</div>
+</nav>
+</header>
+<main id="main">
+<section class="blog-hero">
+<div class="container blog-hero-grid">
+<div class="blog-hero-copy reveal">
+<span class="section-kicker">Sandbox Media Insights</span>
+<h1>Practical ideas to help your business look better, work smarter and grow.</h1>
+<p>Explore strategy, design, SEO, ecommerce, content and automation insights created for ambitious businesses.</p>
+<label class="blog-search-large">
+<span>⌕</span>
+<input id="blogHeroSearch" placeholder="Search articles, topics or categories" type="search"/>
+</label>
+<div class="blog-hero-stats">
+<span><b>12</b> Practical Articles</span>
+<span><b>9</b> Growth Topics</span>
+<span><b>Weekly</b> New Insights</span>
+</div>
+</div>
+<div class="blog-hero-featured reveal" id="blogHeroFeatured"></div>
+</div>
+</section>
+<section class="blog-category-strip">
+<div class="container blog-category-scroll" id="blogCategoryFilters"></div>
+</section>
+<section class="blog-library section-space">
+<div class="container blog-library-layout">
+<div class="blog-library-main">
+<div class="blog-library-heading reveal">
+<div>
+<span class="section-kicker">Latest Articles</span>
+<h2>Ideas you can apply to your business.</h2>
+</div>
+<p>Clear, practical guidance without unnecessary complexity.</p>
+</div>
+<div class="blog-card-grid" id="blogCardGrid"></div>
+<div class="blog-empty-state" id="blogEmptyState">
+<h3>No matching article found.</h3>
+<p>Try another search term or category.</p>
+</div>
+<button class="blog-load-more" id="blogLoadMore" type="button">Load More Articles</button>
+</div>
+<aside class="blog-sidebar">
+<article class="blog-sidebar-card popular reveal">
+<span class="section-kicker">Most Read</span>
+<h3>Popular Articles</h3>
+<div id="popularArticles"></div>
+</article>
+<article class="blog-sidebar-card newsletter reveal">
+<span class="section-kicker">Weekly Growth Notes</span>
+<h3>Useful ideas. No unnecessary noise.</h3>
+<p>Get practical website, branding, SEO and business-system insights.</p>
+<form id="newsletterForm">
+<input placeholder="Enter your email" required="" type="email"/>
+<button type="submit">Subscribe</button>
+</form>
+<small id="newsletterMessage">Subscribe for practical digital growth insights.</small>
+</article>
+<article class="blog-sidebar-card topics reveal">
+<span class="section-kicker">Explore Topics</span>
+<h3>Browse by interest</h3>
+<div id="blogTopicCounts"></div>
+</article>
+</aside>
+</div>
+</section>
+<section class="blog-resources section-space">
+<div class="container">
+<div class="blog-resources-heading reveal">
+<div>
+<span class="section-kicker">Free Resources</span>
+<h2>Helpful checklists for your next project.</h2>
+</div>
+<p>Download practical checklists designed to help you plan and review digital projects.</p>
+</div>
+<div class="blog-resource-grid">
+<article class="reveal">
+<span>Free PDF</span>
+<h3>Premium Website Checklist</h3>
+<p>Review design, content, speed, trust and conversion before launch.</p>
+<a download="" href="#">Download Checklist ↗</a>
+</article>
+<article class="reveal">
+<span>Free PDF</span>
+<h3>Small Business SEO Checklist</h3>
+<p>Technical, local and content steps for stronger search visibility.</p>
+<a download="" href="#">Download Checklist ↗</a>
+</article>
+<article class="reveal">
+<span>Free PDF</span>
+<h3>Brand Identity Starter Guide</h3>
+<p>A simple structure for logo, color, typography and visual consistency.</p>
+<a download="" href="#">Download Guide ↗</a>
+</article>
+</div>
+</div>
+</section>
+<section class="final-cta-v2 section-space">
+<div class="container final-cta-v2-box reveal">
+<div>
+<span class="section-kicker">Need Help Applying These Ideas?</span>
+<h2>Let’s turn strategy into a real digital system for your business.</h2>
+<p>We can support your website, brand, SEO, marketing, content or business automation.</p>
+</div>
+<div class="final-cta-v2-actions">
+<a class="final-cta-primary magnetic" href="contact.html">Book Consultation <span>↗</span></a>
+<a class="final-cta-secondary magnetic" href="services.html">Explore Services</a>
+</div>
+</div>
+</section>
+</main>
+<footer class="footer-v2">
+<div class="container footer-v2-grid">
+<div class="footer-v2-brand">
+<a class="brand" href="index.html">
+<span class="brand-logo"><img alt="Sandbox Media logo" decoding="async" src="assets/logos/sandbox-logo.png"/></span>
+<span class="brand-name">SANDBOX <em>MEDIA</em></span>
+</a>
+<p>Premium websites, branding, digital marketing and business tools for ambitious brands worldwide.</p>
+</div>
+<div><h3>Services</h3><a href="services.html">Website Design</a><a href="services.html">Branding</a><a href="services.html">SEO</a><a href="services.html">Social Media</a></div>
+<div><h3>Company</h3><a href="about.html">About Us</a><a href="portfolio.html">Case Studies</a><a href="blog.html">Blog</a><a href="contact.html">Contact</a></div>
+<div><h3>Products</h3><a href="product.html?id=attendance-system">Attendance System</a><a href="product.html?id=finance-os">Finance OS</a><a href="product.html?id=business-os">Business OS</a><a href="products.html">View All Products</a></div>
+<div><h3>Contact</h3><a href="mailto:hello@sandboxmedia.in">hello@sandboxmedia.in</a><a href="https://wa.me/919000000000">+91 90000 00000</a><p>Serving clients worldwide</p></div>
+</div>
+<div class="container footer-v2-bottom"><span>© 2026 Sandbox Media. All Rights Reserved.</span><div><a href="privacy-policy.html">Privacy Policy</a><a href="terms-and-conditions.html">Terms &amp; Conditions</a><a href="refund-policy.html">Refund Policy</a><a href="cookies-policy.html">Cookies Policy</a></div></div>
+</footer>
+<script defer="" src="blog-data.js"></script>
+<script defer="" src="script.js"></script>
+<script defer="" src="blog.js"></script>
+<script defer="" src="performance.js"></script><script defer="" src="accessibility.js"></script>  <script src="intro-animation.js" defer></script>
+</body>
+</html>

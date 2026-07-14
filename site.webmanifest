@@ -1,0 +1,16 @@
+{
+  "name": "Sandbox Media",
+  "short_name": "Sandbox Media",
+  "description": "Digital growth agency for websites, branding, SEO, marketing and automation.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#5b4df7",
+  "icons": [
+    {
+      "src": "assets/logos/sandbox-logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

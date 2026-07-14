@@ -1,0 +1,1086 @@
+{
+  "version": "V1.5",
+  "source_zip": "sandbox-media-final-v1-4-intro-animation.zip",
+  "public_notes_replaced": [
+    {
+      "file": "index.html",
+      "removed": "These numbers can be updated anytime as Sandbox Media grows. The section is built to remain clean, credible and easy to scan.",
+      "replacement": "Focused execution, clear communication and scalable digital systems for growing brands."
+    },
+    {
+      "file": "index.html",
+      "removed": "Replace these sample reviews with verified client feedback before the final public launch.",
+      "replacement": "Real experiences from businesses that value clarity, quality and dependable execution."
+    },
+    {
+      "file": "index.html",
+      "removed": "Upload your real project images later using the exact file names written in README.",
+      "replacement": "A closer look at selected websites, branding, content and digital systems."
+    },
+    {
+      "file": "services.html",
+      "removed": "Pricing below is sample positioning only. Replace it with your final packages before launch.",
+      "replacement": "Choose a starting package or request a custom scope based on your business goals."
+    },
+    {
+      "file": "contact.html",
+      "removed": "No form data is stored on this website.",
+      "replacement": "Your information is used only to respond to your project inquiry."
+    },
+    {
+      "file": "blog.html",
+      "removed": "Demo newsletter form \u2014 connect your email platform before launch.",
+      "replacement": "Subscribe for practical digital growth insights."
+    },
+    {
+      "file": "blog.html",
+      "removed": "Lead-magnet download buttons are ready. Add your final PDF files later.",
+      "replacement": "Download practical checklists designed to help you plan and review digital projects."
+    }
+  ],
+  "remaining_developer_note_matches": [
+    {
+      "file": "products.html",
+      "pattern": "upload .* image"
+    }
+  ],
+  "image_reference_count": 259,
+  "image_references": [
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/business-os/business-os-card.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/business-os/business-os-card.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/business-os/business-os-gallery-1.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/business-os/business-os-gallery-1.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/business-os/business-os-gallery-2.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/business-os/business-os-gallery-2.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/business-os/business-os-gallery-3.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/business-os/business-os-gallery-3.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/business-os/business-os-gallery-4.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/business-os/business-os-gallery-4.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/business-os/business-os-gallery-5.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/business-os/business-os-gallery-5.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/business-os/business-os-gallery-6.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/business-os/business-os-gallery-6.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/business-os/business-os-gallery-7.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/business-os/business-os-gallery-7.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/business-os/business-os-hero.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/business-os/business-os-hero.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/fashion-store/fashion-store-card.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/fashion-store/fashion-store-card.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/fashion-store/fashion-store-gallery-1.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/fashion-store/fashion-store-gallery-1.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/fashion-store/fashion-store-gallery-2.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/fashion-store/fashion-store-gallery-2.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/fashion-store/fashion-store-gallery-3.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/fashion-store/fashion-store-gallery-3.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/fashion-store/fashion-store-gallery-4.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/fashion-store/fashion-store-gallery-4.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/fashion-store/fashion-store-gallery-5.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/fashion-store/fashion-store-gallery-5.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/fashion-store/fashion-store-gallery-6.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/fashion-store/fashion-store-gallery-6.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/fashion-store/fashion-store-gallery-7.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/fashion-store/fashion-store-gallery-7.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/fashion-store/fashion-store-hero.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/fashion-store/fashion-store-hero.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/sagar-offshore/sagar-offshore-card.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/sagar-offshore/sagar-offshore-card.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/sagar-offshore/sagar-offshore-gallery-1.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/sagar-offshore/sagar-offshore-gallery-1.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/sagar-offshore/sagar-offshore-gallery-2.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/sagar-offshore/sagar-offshore-gallery-2.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/sagar-offshore/sagar-offshore-gallery-3.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/sagar-offshore/sagar-offshore-gallery-3.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/sagar-offshore/sagar-offshore-gallery-4.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/sagar-offshore/sagar-offshore-gallery-4.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/sagar-offshore/sagar-offshore-gallery-5.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/sagar-offshore/sagar-offshore-gallery-5.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/sagar-offshore/sagar-offshore-gallery-6.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/sagar-offshore/sagar-offshore-gallery-6.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/sagar-offshore/sagar-offshore-gallery-7.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/sagar-offshore/sagar-offshore-gallery-7.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/sagar-offshore/sagar-offshore-hero.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/sagar-offshore/sagar-offshore-hero.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/sia-jewels/sia-jewels-card.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/sia-jewels/sia-jewels-card.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/sia-jewels/sia-jewels-gallery-1.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/sia-jewels/sia-jewels-gallery-1.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/sia-jewels/sia-jewels-gallery-2.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/sia-jewels/sia-jewels-gallery-2.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/sia-jewels/sia-jewels-gallery-3.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/sia-jewels/sia-jewels-gallery-3.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/sia-jewels/sia-jewels-gallery-4.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/sia-jewels/sia-jewels-gallery-4.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/sia-jewels/sia-jewels-gallery-5.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/sia-jewels/sia-jewels-gallery-5.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/sia-jewels/sia-jewels-gallery-6.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/sia-jewels/sia-jewels-gallery-6.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/sia-jewels/sia-jewels-gallery-7.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/sia-jewels/sia-jewels-gallery-7.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/sia-jewels/sia-jewels-hero.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/sia-jewels/sia-jewels-hero.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/tooth-fairy/tooth-fairy-card.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/tooth-fairy/tooth-fairy-card.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/tooth-fairy/tooth-fairy-gallery-1.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/tooth-fairy/tooth-fairy-gallery-1.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/tooth-fairy/tooth-fairy-gallery-2.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/tooth-fairy/tooth-fairy-gallery-2.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/tooth-fairy/tooth-fairy-gallery-3.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/tooth-fairy/tooth-fairy-gallery-3.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/tooth-fairy/tooth-fairy-gallery-4.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/tooth-fairy/tooth-fairy-gallery-4.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/tooth-fairy/tooth-fairy-gallery-5.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/tooth-fairy/tooth-fairy-gallery-5.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/tooth-fairy/tooth-fairy-gallery-6.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/tooth-fairy/tooth-fairy-gallery-6.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/tooth-fairy/tooth-fairy-gallery-7.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/tooth-fairy/tooth-fairy-gallery-7.webp"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/tooth-fairy/tooth-fairy-hero.svg"
+    },
+    {
+      "source": "portfolio-data.js",
+      "path": "assets/images/portfolio/tooth-fairy/tooth-fairy-hero.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/branding/agency-brand.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/branding/agency-brand.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/branding/cafe-brand.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/branding/cafe-brand.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/branding/candle-brand.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/branding/candle-brand.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/branding/clinic-brand.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/branding/clinic-brand.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/branding/education-brand.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/branding/education-brand.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/branding/fashion-brand.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/branding/fashion-brand.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/branding/jewellery-brand.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/branding/jewellery-brand.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/branding/realestate-brand.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/branding/realestate-brand.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/graphics/ad-creative-set.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/graphics/ad-creative-set.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/graphics/brochure-design.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/graphics/brochure-design.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/graphics/festival-campaign.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/graphics/festival-campaign.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/graphics/menu-design.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/graphics/menu-design.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/graphics/packaging-design.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/graphics/packaging-design.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/graphics/presentation-design.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/graphics/presentation-design.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/graphics/social-post-set.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/graphics/social-post-set.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/graphics/thumbnail-set.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/graphics/thumbnail-set.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/seo/local-seo-dental.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/seo/local-seo-dental.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/seo/seo-b2b.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/seo/seo-b2b.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/seo/seo-ecommerce.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/seo/seo-ecommerce.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/seo/seo-education.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/seo/seo-education.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/seo/seo-realestate.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/seo/seo-realestate.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/seo/seo-salon.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/seo/seo-salon.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/social/agency-social.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/social/agency-social.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/social/candle-social.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/social/candle-social.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/social/clinic-social.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/social/clinic-social.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/social/education-social.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/social/education-social.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/social/fashion-social.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/social/fashion-social.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/social/jewellery-social.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/social/jewellery-social.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/social/realestate-social.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/social/realestate-social.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/social/salon-social.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/social/salon-social.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/systems/attendance-system.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/systems/attendance-system.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/systems/business-os.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/systems/business-os.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/systems/crm-system.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/systems/crm-system.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/systems/finance-system.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/systems/finance-system.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/systems/inventory-system.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/systems/inventory-system.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/systems/task-system.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/systems/task-system.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/video/ad-video.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/video/ad-video.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/video/corporate-video.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/video/corporate-video.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/video/course-promo.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/video/course-promo.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/video/fashion-reel.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/video/fashion-reel.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/video/motion-graphic.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/video/motion-graphic.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/video/product-reel.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/video/product-reel.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/video/salon-transformation.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/video/salon-transformation.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/video/testimonial-video.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/video/testimonial-video.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/website/fashion-store.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/website/fashion-store.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/website/gym-web.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/website/gym-web.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/website/marine-web.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/website/marine-web.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/website/real-estate-web.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/website/real-estate-web.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/website/sagar-offshore.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/website/sagar-offshore.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/website/salon-web.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/website/salon-web.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/website/sia-jewels.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/website/sia-jewels.webp"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/website/tooth-fairy.svg"
+    },
+    {
+      "source": "portfolio-work-data.js",
+      "path": "assets/images/portfolio-work/website/tooth-fairy.webp"
+    },
+    {
+      "source": "blog-data.js",
+      "path": "assets/images/blog/ai-content-workflow/ai-content-workflow-content-1.webp"
+    },
+    {
+      "source": "blog-data.js",
+      "path": "assets/images/blog/ai-content-workflow/ai-content-workflow-cover.svg"
+    },
+    {
+      "source": "blog-data.js",
+      "path": "assets/images/blog/ai-content-workflow/ai-content-workflow-cover.webp"
+    },
+    {
+      "source": "blog-data.js",
+      "path": "assets/images/blog/automation-for-small-teams/automation-for-small-teams-content-1.webp"
+    },
+    {
+      "source": "blog-data.js",
+      "path": "assets/images/blog/automation-for-small-teams/automation-for-small-teams-cover.svg"
+    },
+    {
+      "source": "blog-data.js",
+      "path": "assets/images/blog/automation-for-small-teams/automation-for-small-teams-cover.webp"
+    },
+    {
+      "source": "blog-data.js",
+      "path": "assets/images/blog/brand-identity-system/brand-identity-system-content-1.webp"
+    },
+    {
+      "source": "blog-data.js",
+      "path": "assets/images/blog/brand-identity-system/brand-identity-system-cover.svg"
+    },
+    {
+      "source": "blog-data.js",
+      "path": "assets/images/blog/brand-identity-system/brand-identity-system-cover.webp"
+    },
+    {
+      "source": "blog-data.js",
+      "path": "assets/images/blog/case-study-structure/case-study-structure-content-1.webp"
+    },
+    {
+      "source": "blog-data.js",
+      "path": "assets/images/blog/case-study-structure/case-study-structure-cover.svg"
+    },
+    {
+      "source": "blog-data.js",
+      "path": "assets/images/blog/case-study-structure/case-study-structure-cover.webp"
+    },
+    {
+      "source": "blog-data.js",
+      "path": "assets/images/blog/designing-digital-products/designing-digital-products-content-1.webp"
+    },
+    {
+      "source": "blog-data.js",
+      "path": "assets/images/blog/designing-digital-products/designing-digital-products-cover.svg"
+    },
+    {
+      "source": "blog-data.js",
+      "path": "assets/images/blog/designing-digital-products/designing-digital-products-cover.webp"
+    },
+    {
+      "source": "blog-data.js",
+      "path": "assets/images/blog/local-seo-checklist/local-seo-checklist-content-1.webp"
+    },
+    {
+      "source": "blog-data.js",
+      "path": "assets/images/blog/local-seo-checklist/local-seo-checklist-cover.svg"
+    },
+    {
+      "source": "blog-data.js",
+      "path": "assets/images/blog/local-seo-checklist/local-seo-checklist-cover.webp"
+    },
+    {
+      "source": "blog-data.js",
+      "path": "assets/images/blog/premium-website-guide/premium-website-guide-content-1.webp"
+    },
+    {
+      "source": "blog-data.js",
+      "path": "assets/images/blog/premium-website-guide/premium-website-guide-cover.svg"
+    },
+    {
+      "source": "blog-data.js",
+      "path": "assets/images/blog/premium-website-guide/premium-website-guide-cover.webp"
+    },
+    {
+      "source": "blog-data.js",
+      "path": "assets/images/blog/seo-small-business/seo-small-business-content-1.webp"
+    },
+    {
+      "source": "blog-data.js",
+      "path": "assets/images/blog/seo-small-business/seo-small-business-cover.svg"
+    },
+    {
+      "source": "blog-data.js",
+      "path": "assets/images/blog/seo-small-business/seo-small-business-cover.webp"
+    },
+    {
+      "source": "blog-data.js",
+      "path": "assets/images/blog/shopify-conversion-checklist/shopify-conversion-checklist-content-1.webp"
+    },
+    {
+      "source": "blog-data.js",
+      "path": "assets/images/blog/shopify-conversion-checklist/shopify-conversion-checklist-cover.svg"
+    },
+    {
+      "source": "blog-data.js",
+      "path": "assets/images/blog/shopify-conversion-checklist/shopify-conversion-checklist-cover.webp"
+    },
+    {
+      "source": "blog-data.js",
+      "path": "assets/images/blog/social-media-content-system/social-media-content-system-content-1.webp"
+    },
+    {
+      "source": "blog-data.js",
+      "path": "assets/images/blog/social-media-content-system/social-media-content-system-cover.svg"
+    },
+    {
+      "source": "blog-data.js",
+      "path": "assets/images/blog/social-media-content-system/social-media-content-system-cover.webp"
+    },
+    {
+      "source": "blog-data.js",
+      "path": "assets/images/blog/video-editing-for-brands/video-editing-for-brands-content-1.webp"
+    },
+    {
+      "source": "blog-data.js",
+      "path": "assets/images/blog/video-editing-for-brands/video-editing-for-brands-cover.svg"
+    },
+    {
+      "source": "blog-data.js",
+      "path": "assets/images/blog/video-editing-for-brands/video-editing-for-brands-cover.webp"
+    },
+    {
+      "source": "blog-data.js",
+      "path": "assets/images/blog/website-speed-guide/website-speed-guide-content-1.webp"
+    },
+    {
+      "source": "blog-data.js",
+      "path": "assets/images/blog/website-speed-guide/website-speed-guide-cover.svg"
+    },
+    {
+      "source": "blog-data.js",
+      "path": "assets/images/blog/website-speed-guide/website-speed-guide-cover.webp"
+    },
+    {
+      "source": "index.html",
+      "path": "assets/logos/sandbox-logo.png"
+    },
+    {
+      "source": "index.html",
+      "path": "assets/images/portfolio/sia-jewels.svg"
+    },
+    {
+      "source": "index.html",
+      "path": "assets/images/portfolio/sagar-offshore.svg"
+    },
+    {
+      "source": "index.html",
+      "path": "assets/images/portfolio/tooth-fairy.svg"
+    },
+    {
+      "source": "index.html",
+      "path": "assets/images/portfolio/real-estate.svg"
+    },
+    {
+      "source": "index.html",
+      "path": "assets/images/portfolio/business-os.svg"
+    },
+    {
+      "source": "index.html",
+      "path": "assets/images/reviews/review-1.svg"
+    },
+    {
+      "source": "index.html",
+      "path": "assets/images/reviews/review-2.svg"
+    },
+    {
+      "source": "index.html",
+      "path": "assets/images/reviews/review-3.svg"
+    },
+    {
+      "source": "index.html",
+      "path": "assets/images/reviews/review-4.svg"
+    },
+    {
+      "source": "index.html",
+      "path": "assets/images/reviews/review-5.svg"
+    },
+    {
+      "source": "index.html",
+      "path": "assets/images/reviews/review-6.svg"
+    },
+    {
+      "source": "index.html",
+      "path": "assets/images/reviews/review-7.svg"
+    },
+    {
+      "source": "index.html",
+      "path": "assets/images/reviews/review-8.svg"
+    },
+    {
+      "source": "index.html",
+      "path": "assets/images/reviews/review-9.svg"
+    },
+    {
+      "source": "index.html",
+      "path": "assets/images/gallery/gallery-1.svg"
+    },
+    {
+      "source": "index.html",
+      "path": "assets/images/gallery/gallery-2.svg"
+    },
+    {
+      "source": "index.html",
+      "path": "assets/images/gallery/gallery-3.svg"
+    },
+    {
+      "source": "index.html",
+      "path": "assets/images/gallery/gallery-4.svg"
+    },
+    {
+      "source": "index.html",
+      "path": "assets/images/gallery/gallery-5.svg"
+    },
+    {
+      "source": "index.html",
+      "path": "assets/images/gallery/gallery-6.svg"
+    },
+    {
+      "source": "index.html",
+      "path": "assets/images/gallery/gallery-7.svg"
+    },
+    {
+      "source": "services.html",
+      "path": "assets/images/services-page/website-design.svg"
+    },
+    {
+      "source": "services.html",
+      "path": "assets/images/services-page/shopify-development.svg"
+    },
+    {
+      "source": "services.html",
+      "path": "assets/images/services-page/branding-design.svg"
+    },
+    {
+      "source": "services.html",
+      "path": "assets/images/services-page/social-media.svg"
+    },
+    {
+      "source": "services.html",
+      "path": "assets/images/services-page/seo-growth.svg"
+    },
+    {
+      "source": "services.html",
+      "path": "assets/images/services-page/video-editing.svg"
+    },
+    {
+      "source": "about.html",
+      "path": "assets/images/about/about-hero-placeholder.svg"
+    }
+  ]
+}
